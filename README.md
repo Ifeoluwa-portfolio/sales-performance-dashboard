@@ -32,5 +32,5 @@ Sales Trends by Day
 
 
 ## preview 
-
+https://github.com/Ifeoluwa-portfolio/sales-performance-dashboard/blob/main/multisonic%20powerbi%20dashboard.png
 
